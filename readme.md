@@ -14,7 +14,7 @@ Ingeniero Civil Químico | Seguridad Química & Cumplimiento Normativo | Transfo
 | Dato | Detalle |
 |---|---|
 | **Estudiante** | Oscar Soto Mejías |
-| **Fecha** | 12 de abril de 2026 |
+| **Fecha** | 14 de abril de 2026 |
 | **Docente** | Sabina Romero |
 | **Módulo** | Programación Avanzada en JavaScript |
 | **Institución** | Alkemy |
